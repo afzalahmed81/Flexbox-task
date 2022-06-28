@@ -42,12 +42,12 @@ body {
         background-color: white;
         border: 5px solid rgb(11, 169, 221);
         width: 250px;
-        height: 450px;
+        height: 950px;
         margin: auto;
         padding: 20px;
         border-radius: 15px;
         display: flex;
-        flex-flow: column wrap;
+        flex-flow: column;
         justify-content:space-between;
         align-items:center    }
      .box {
